@@ -1,0 +1,67 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Hex nut.sldprt
+Receiving System Product I.D.: Hex nut.sldprt
+File Name                    : C:\Users\SB\Desktop\Hardware common\FASTNERS\nuts\iges\Hex nut.IGS
+Sending System               : SolidWorks 2013
+Preprocessor Version         : SolidWorks 2013
+File Creation Date           : 141226.104820
+Model Creation Date          : 141226.104820
+Units                        : MM
+Model Space Scale            : 1
+Author                       : SB
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               1
+  Highest number of significant digits:                     13
+  Average number of significant digits:                4.38222
+  Maximum distance to origin:                          1002.41
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   13
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             45        45
+102  Composite curve                                 60        60
+110  Line                                           112       112
+120  Surface of revolution                           20        20
+124  Transformation matrix                           31        31
+126  Rational B-spline curve                        168       168
+128  Rational B-spline surface                        8         8
+142  Curve on a parametric surface                   30        30
+144  Trimmed parametric surface                      28        28
+314  Color definition                                 1         1
+402  Associativity instance                           5         5
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: venerdì, dicembre 26, 2014 10:48:24
+Finish time: venerdì, dicembre 26, 2014 10:48:25
+Processing time: 0 days, 00 hours, 00 mins, 01 secs
