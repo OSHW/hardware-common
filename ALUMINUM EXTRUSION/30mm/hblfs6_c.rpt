@@ -1,0 +1,64 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Noname
+Receiving System Product I.D.: Noname
+File Name                    : hblfs6_c.igs
+Sending System               :  By Spatial Corp.
+Preprocessor Version         : XPlus ACIS/IGES 3.0
+File Creation Date           : 20141226.191618
+Model Creation Date          : 20141226.191618
+Units                        : MM
+Model Space Scale            : 1
+Author                       : Noname
+Organization                 : Noname
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               2
+  Highest number of significant digits:                     14
+  Average number of significant digits:                2,53984
+  Maximum distance to origin:                           41,107
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            128       128
+102  Composite curve                                 78        78
+110  Line                                           316       316
+120  Surface of revolution                           34        34
+122  Tabulated cylinder                              32        32
+124  Transformation matrix                          128       128
+142  Curve on a parametric surface                   78        78
+144  Trimmed parametric surface                      66        66
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: venerdì, dicembre 26, 2014 19:14:50
+Finish time: venerdì, dicembre 26, 2014 19:14:51
+Processing time: 0 days, 00 hours, 00 mins, 01 secs
