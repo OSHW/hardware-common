@@ -1,0 +1,64 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+Informazioni generali
+=================================================================
+Invio I.D. del prodotto di sistema : Noname
+Ricezione dell'I.D. del prodotto di sistema: Noname
+Nome file                    : hblfsb6_c_seu.igs
+Invio del sistema               :  By Spatial Corp.
+Versione preprocessore         : XPlus ACIS/IGES 3.0
+Data creazione file           : 20150103.190755
+Data creazione modello          : 20150103.190755
+Unità                        : MM
+Scala spazio del modello            : 1
+Autore                       : Noname
+Organizzazione                 : Noname
+
+
+=================================================================
+Informazioni entità in elaborazione
+=================================================================
+
+
+=================================================================
+Analisi di precisione del file IGES:
+=================================================================
+  Numero prevalente di unità significative:               2
+  Numero più alto di unità significative:                     14
+  Numero media di unità significative:                3.16301
+  Distanza massima dall'origine:                          43.2063
+  Distanza minima dall'origine:                                0
+  Numero effettivo di unità significative:                   14
+
+
+=================================================================
+Sintesi entità
+=================================================================
+-----------------------------------------------------------------
+Immetti nome                                         Conteggio convertito
+---- ----                                         ----- ---------
+100  Arc                                            328       328
+102  Composite curve                                228       228
+110  Line                                           878       878
+120  Surface of revolution                           90        90
+122  Tabulated cylinder                             106       106
+124  Transformation matrix                          328       328
+142  Curve on a parametric surface                  228       228
+144  Trimmed parametric surface                     196       196
+_________________________________________________________________
+
+
+=================================================================
+Sintesi dei risultati
+=================================================================
+Tipo di funzione SolidWorks                Conteggio
+-----------------------                -----
+Funzioni solide                       7
+Funzioni di superficie                     0
+Funzioni di curva/schizzo                0
+--------------------------------------------
+Inizio: sabato, gennaio 03, 2015 18:08:36
+Fine: sabato, gennaio 03, 2015 18:08:40
+Tempo di elaborazione: 0 days, 00 hours, 00 mins, 04 secs
