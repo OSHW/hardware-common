@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-10122013-111242";"";
+"REFERENCE";"35AT051521";"";
+"TraceParts.PartTitle";"AT 5 - 10 mm";"";
+"TraceParts.InstanceId";"10-10122013-1112425SM864S99EVSSK5Y19KE29DE3";"";
+"DESIGN";"   21 AT 5/15 - 6F";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"POGGI";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"it";"";
+"TraceParts.ClassPath";"POGGI:/ROOT/C21/C21.220/C21.220.010/C21.220.010.010/10-10122013-111242";"";
